@@ -3,6 +3,7 @@
 	<name>gscg-facilitator</name>
 	<comment></comment>
 	<projects>
+		<project>gscg-common</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
